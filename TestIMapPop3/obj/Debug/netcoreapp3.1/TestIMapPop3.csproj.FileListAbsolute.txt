@@ -1,0 +1,38 @@
+D:\Study\Frilance\25. Bissoft\3. Google alerts\TestIMapPop3\TestIMapPop3\bin\Debug\netcoreapp3.1\TestIMapPop3.exe
+D:\Study\Frilance\25. Bissoft\3. Google alerts\TestIMapPop3\TestIMapPop3\bin\Debug\netcoreapp3.1\TestIMapPop3.deps.json
+D:\Study\Frilance\25. Bissoft\3. Google alerts\TestIMapPop3\TestIMapPop3\bin\Debug\netcoreapp3.1\TestIMapPop3.runtimeconfig.json
+D:\Study\Frilance\25. Bissoft\3. Google alerts\TestIMapPop3\TestIMapPop3\bin\Debug\netcoreapp3.1\TestIMapPop3.runtimeconfig.dev.json
+D:\Study\Frilance\25. Bissoft\3. Google alerts\TestIMapPop3\TestIMapPop3\bin\Debug\netcoreapp3.1\TestIMapPop3.dll
+D:\Study\Frilance\25. Bissoft\3. Google alerts\TestIMapPop3\TestIMapPop3\bin\Debug\netcoreapp3.1\TestIMapPop3.pdb
+D:\Study\Frilance\25. Bissoft\3. Google alerts\TestIMapPop3\TestIMapPop3\obj\Debug\netcoreapp3.1\TestIMapPop3.csprojAssemblyReference.cache
+D:\Study\Frilance\25. Bissoft\3. Google alerts\TestIMapPop3\TestIMapPop3\obj\Debug\netcoreapp3.1\TestIMapPop3.AssemblyInfoInputs.cache
+D:\Study\Frilance\25. Bissoft\3. Google alerts\TestIMapPop3\TestIMapPop3\obj\Debug\netcoreapp3.1\TestIMapPop3.AssemblyInfo.cs
+D:\Study\Frilance\25. Bissoft\3. Google alerts\TestIMapPop3\TestIMapPop3\obj\Debug\netcoreapp3.1\TestIMapPop3.csproj.CoreCompileInputs.cache
+D:\Study\Frilance\25. Bissoft\3. Google alerts\TestIMapPop3\TestIMapPop3\obj\Debug\netcoreapp3.1\TestIMapPop3.dll
+D:\Study\Frilance\25. Bissoft\3. Google alerts\TestIMapPop3\TestIMapPop3\obj\Debug\netcoreapp3.1\TestIMapPop3.pdb
+D:\Study\Frilance\25. Bissoft\3. Google alerts\TestIMapPop3\TestIMapPop3\obj\Debug\netcoreapp3.1\TestIMapPop3.genruntimeconfig.cache
+D:\Study\Frilance\25. Bissoft\3. Google alerts\TestIMapPop3\TestIMapPop3\bin\Debug\netcoreapp3.1\MailKit.dll
+D:\Study\Frilance\25. Bissoft\3. Google alerts\TestIMapPop3\TestIMapPop3\bin\Debug\netcoreapp3.1\MimeKit.dll
+D:\Study\Frilance\25. Bissoft\3. Google alerts\TestIMapPop3\TestIMapPop3\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\Study\Frilance\25. Bissoft\3. Google alerts\TestIMapPop3\TestIMapPop3\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+D:\Study\Frilance\25. Bissoft\3. Google alerts\TestIMapPop3\TestIMapPop3\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Pkcs.dll
+D:\Study\Frilance\25. Bissoft\3. Google alerts\TestIMapPop3\TestIMapPop3\obj\Debug\netcoreapp3.1\TestIMapPop3.csproj.CopyComplete
+C:\Users\Dan\Desktop\заначки\TestIMapPop3\TestIMapPop3\bin\Debug\netcoreapp3.1\TestIMapPop3.exe
+C:\Users\Dan\Desktop\заначки\TestIMapPop3\TestIMapPop3\bin\Debug\netcoreapp3.1\TestIMapPop3.deps.json
+C:\Users\Dan\Desktop\заначки\TestIMapPop3\TestIMapPop3\bin\Debug\netcoreapp3.1\TestIMapPop3.runtimeconfig.json
+C:\Users\Dan\Desktop\заначки\TestIMapPop3\TestIMapPop3\bin\Debug\netcoreapp3.1\TestIMapPop3.runtimeconfig.dev.json
+C:\Users\Dan\Desktop\заначки\TestIMapPop3\TestIMapPop3\bin\Debug\netcoreapp3.1\TestIMapPop3.dll
+C:\Users\Dan\Desktop\заначки\TestIMapPop3\TestIMapPop3\bin\Debug\netcoreapp3.1\TestIMapPop3.pdb
+C:\Users\Dan\Desktop\заначки\TestIMapPop3\TestIMapPop3\bin\Debug\netcoreapp3.1\MailKit.dll
+C:\Users\Dan\Desktop\заначки\TestIMapPop3\TestIMapPop3\bin\Debug\netcoreapp3.1\MimeKit.dll
+C:\Users\Dan\Desktop\заначки\TestIMapPop3\TestIMapPop3\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\Dan\Desktop\заначки\TestIMapPop3\TestIMapPop3\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+C:\Users\Dan\Desktop\заначки\TestIMapPop3\TestIMapPop3\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Dan\Desktop\заначки\TestIMapPop3\TestIMapPop3\obj\Debug\netcoreapp3.1\TestIMapPop3.csprojAssemblyReference.cache
+C:\Users\Dan\Desktop\заначки\TestIMapPop3\TestIMapPop3\obj\Debug\netcoreapp3.1\TestIMapPop3.AssemblyInfoInputs.cache
+C:\Users\Dan\Desktop\заначки\TestIMapPop3\TestIMapPop3\obj\Debug\netcoreapp3.1\TestIMapPop3.AssemblyInfo.cs
+C:\Users\Dan\Desktop\заначки\TestIMapPop3\TestIMapPop3\obj\Debug\netcoreapp3.1\TestIMapPop3.csproj.CoreCompileInputs.cache
+C:\Users\Dan\Desktop\заначки\TestIMapPop3\TestIMapPop3\obj\Debug\netcoreapp3.1\TestIMapPop3.csproj.CopyComplete
+C:\Users\Dan\Desktop\заначки\TestIMapPop3\TestIMapPop3\obj\Debug\netcoreapp3.1\TestIMapPop3.dll
+C:\Users\Dan\Desktop\заначки\TestIMapPop3\TestIMapPop3\obj\Debug\netcoreapp3.1\TestIMapPop3.pdb
+C:\Users\Dan\Desktop\заначки\TestIMapPop3\TestIMapPop3\obj\Debug\netcoreapp3.1\TestIMapPop3.genruntimeconfig.cache
